@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://rmgpanw.github.io/obsidian-template-gatsby-theme-primer-wiki//sitemap/sitemap-index.xml
+Host: https://rmgpanw.github.io
